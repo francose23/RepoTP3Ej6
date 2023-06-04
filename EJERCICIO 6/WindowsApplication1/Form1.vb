@@ -6,7 +6,7 @@
     End Sub
 
     Private Sub TextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox1.TextChanged ' Aqui se carga el numero
-        Num = Val(TextBox1.Text) ' Se lee el numero
+        Num = Val(TextBox1.Text) ' Se lee el numero   
         a = Num ' Se hace una copia del numero en a 
     End Sub
 
