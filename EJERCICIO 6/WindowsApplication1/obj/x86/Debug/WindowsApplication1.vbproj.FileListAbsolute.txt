@@ -19,3 +19,6 @@ C:\Users\Usuario\Desktop\clases\UADER\3er cuatrimestre\info\VB\EJERCICIO 6\Windo
 C:\Users\Usuario\Desktop\clases\UADER\3er cuatrimestre\info\VB\EJERCICIO 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
 C:\Users\Usuario\Desktop\clases\UADER\3er cuatrimestre\info\VB\EJERCICIO 6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
 C:\Users\Usuario\Desktop\clases\UADER\3er cuatrimestre\info\VB\EJERCICIO 6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Facultad UADER  FCyT\Informatica II 2023\Repositorios\TP3\RepoTP3Ej6\EJERCICIO 6\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Facultad UADER  FCyT\Informatica II 2023\Repositorios\TP3\RepoTP3Ej6\EJERCICIO 6\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Facultad UADER  FCyT\Informatica II 2023\Repositorios\TP3\RepoTP3Ej6\EJERCICIO 6\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
